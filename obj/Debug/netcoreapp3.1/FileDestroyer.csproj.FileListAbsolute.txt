@@ -1,0 +1,13 @@
+C:\Users\Michael\source\repos\FileDestroyer\FileDestroyer\bin\Debug\netcoreapp3.1\FileDestroyer.exe
+C:\Users\Michael\source\repos\FileDestroyer\FileDestroyer\bin\Debug\netcoreapp3.1\FileDestroyer.deps.json
+C:\Users\Michael\source\repos\FileDestroyer\FileDestroyer\bin\Debug\netcoreapp3.1\FileDestroyer.runtimeconfig.json
+C:\Users\Michael\source\repos\FileDestroyer\FileDestroyer\bin\Debug\netcoreapp3.1\FileDestroyer.runtimeconfig.dev.json
+C:\Users\Michael\source\repos\FileDestroyer\FileDestroyer\bin\Debug\netcoreapp3.1\FileDestroyer.dll
+C:\Users\Michael\source\repos\FileDestroyer\FileDestroyer\bin\Debug\netcoreapp3.1\FileDestroyer.pdb
+C:\Users\Michael\source\repos\FileDestroyer\FileDestroyer\obj\Debug\netcoreapp3.1\FileDestroyer.csprojAssemblyReference.cache
+C:\Users\Michael\source\repos\FileDestroyer\FileDestroyer\obj\Debug\netcoreapp3.1\FileDestroyer.AssemblyInfoInputs.cache
+C:\Users\Michael\source\repos\FileDestroyer\FileDestroyer\obj\Debug\netcoreapp3.1\FileDestroyer.AssemblyInfo.cs
+C:\Users\Michael\source\repos\FileDestroyer\FileDestroyer\obj\Debug\netcoreapp3.1\FileDestroyer.csproj.CoreCompileInputs.cache
+C:\Users\Michael\source\repos\FileDestroyer\FileDestroyer\obj\Debug\netcoreapp3.1\FileDestroyer.dll
+C:\Users\Michael\source\repos\FileDestroyer\FileDestroyer\obj\Debug\netcoreapp3.1\FileDestroyer.pdb
+C:\Users\Michael\source\repos\FileDestroyer\FileDestroyer\obj\Debug\netcoreapp3.1\FileDestroyer.genruntimeconfig.cache
