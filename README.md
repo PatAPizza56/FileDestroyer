@@ -8,4 +8,4 @@ This File Destroyer was created so I could gain practice in modifying, and readi
 
 Created on: `3/9/21`  
 Skills learned: Learned about reading and writing to files, as well as modifying file types
-Project difficulty: 2/10
+Project difficulty: 2
